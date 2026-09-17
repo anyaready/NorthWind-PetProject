@@ -1,5 +1,8 @@
 # Мой проект
-SQL, Excel, PowerPoint
+Датасет - https://github.com/yugabyte/yugabyte-db/wiki/Northwind-Sample-Database  
+СУБД - PostgreSQL  
+Клиент - DBeaver  
+
 <img width="1400" height="757" alt="image" src="https://github.com/user-attachments/assets/4cc0109a-e8be-4384-95e5-5ed181c8c3a2" />
 <img width="1969" height="1046" alt="image" src="https://github.com/user-attachments/assets/3440f178-9ca5-45ab-8fe2-86bd586e3b9e" />
 <img width="605" height="660" alt="image" src="https://github.com/user-attachments/assets/22f17fc6-3947-4dc6-a635-aadae617098f" />
